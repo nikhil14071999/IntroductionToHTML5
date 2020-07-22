@@ -1,0 +1,4 @@
+
+--> The name of the file must follow the notation of underscores, Camel Casing or dashes. It is suggested to use dashes
+--> Then add doctype, html, head and body tags in the file. 
+--> To manage the files better create the better folders chain.

@@ -1,0 +1,12 @@
+It is important to make web pages as accessible as possible to others. 
+Why we need web accessibliy cordinator?
+--> It helps guide policy and prchasing decisions.
+--> Evaluates web interfaces for accessiblity.
+--> Assists those with disablities to access online infrastructure
+--> People should be familiar with the changing technology. 
+
+What is web accessiblity?
+--> It is making sure that web is accessible to widest of the audience. 
+--> We can do it by adhering to the standards. 
+--> W3C has issued guidelines in form of standards --> 1. Perceivable 2. Operable 3. Understandable 4. Robust
+

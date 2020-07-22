@@ -1,0 +1,10 @@
+Server/Client Relationships
+Server -> shared resources, always connected
+Client -> our machines 
+
+What happens when we type something into the browser? -> Request-Response Cycle. 
+ 	---> We are actually requesting a page and a server responds with appropriate files. 
+	---> URL(Uniform Resource Locator) contains protocol(how to connect like HTTP, HTTPS, FTP), domain(server), optionally document
+	---> Domain Name is actually mapped to a uniques address of the machine. 
+	---> Once the IP address is determined the browser creates an HTTP request. 
+	---> The server returns files not web pages. The number of files depends on the site. We can always check the different files by going to network in the subwindow of browser by inspecting it. 

@@ -1,0 +1,7 @@
+HTML -> Hyper Text MarkUp Language
+--> HTMl was created in 1990 as a way to electronically connect documents vis hyperlinks => web of connections
+--> No one actually runs Internet but hey are some groups that have taken up the task of standardizing likr Internet Engineering Task Force(IETF), World Wide Web Consortium(W3C)(deals with the evoulution of HTML), etc.  
+--> When a computer sees a .html file, it gets to know that it needs a browser to open that file.
+--> HTML5 now has established guidelines (reduce need for plugins, more markup to replace scripting). 
+--> The browser can read this file and know how to display that on the screen. 
+--> Tags are used to markup your files so browsers know how to display the material. 

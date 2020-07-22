@@ -1,0 +1,13 @@
+Validating means to checking the code.  
+
+Why validate? ----> Browsers are programmed to fix your errors. But not all browsers fix them in the same way. As the pages become more complex "hidden" areas can be very devastating. 
+		    Our site should be consitent no matter where we are opening the site. 
+
+How ? --> Three approaches 1. Validate by URL, 2. Vaidate By Filename, 3. Validate by Direct Input
+     -->  We use vaidator.w3.org to validate the code. it will find the errors that break the rules of the DOM structurre. 
+	
+wave.webaim.org can be used to check if my page are accessibles. 
+Flunkify--> extension to let you experience web pages in a different way. It lets us see how it will look to different people. 
+
+Advantages -- >Validated sites are always more robust and accessible. 
+	
